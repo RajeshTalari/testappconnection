@@ -5,7 +5,7 @@
         <api_name>x_901367_testappco.Testscriptinclude4</api_name>
         <caller_access/>
         <client_callable>false</client_callable>
-        <description>Testscriptinclude4</description>
+        <description>Testscriptinclude4,Updated scriptinclude 4</description>
         <name>Testscriptinclude4</name>
         <script><![CDATA[var Testscriptinclude4 = Class.create();
 Testscriptinclude4.prototype = {
